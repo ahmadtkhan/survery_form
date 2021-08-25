@@ -1,0 +1,25 @@
+#main{
+    background-image: url("https://www.chilitochoc.com/wp-content/uploads/2020/02/adanakebab3.jpg");
+    width: 800px;
+    height: 800px;
+  }
+  #title{
+    text-align: left;
+    color: brown;
+  }
+  #survey-form{
+    
+    background-color: yellow; 
+    width: 750px;
+    text-align: "center";
+    margin: 0 auto;
+    height: 650px;
+  
+    font-size: 15px;
+  }
+  #question{
+    font-size: 15px;
+  }
+  
+  
+  
